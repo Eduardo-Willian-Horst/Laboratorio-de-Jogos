@@ -12,7 +12,7 @@ O Laboratório de Jogos é um site desenvolvido em HTML, CSS e JavaScript, proje
 - Jogo Aleatório: Se você está em busca de uma experiência surpreendente, basta clicar no botão "Jogo Aleatório" e ser direcionado para um jogo escolhido aleatoriamente dentre a coleção. Nunca se sabe qual desafio emocionante está à sua espera!
 
 ## Como Utilizar
-1. Clone ou faça o download deste repositório em seu ambiente de desenvolvimento. `https://github.com/Eduardo-Willian-Horst/Laboratorio-de-Jogos.git`
+1. Clone ou faça o download deste repositório em seu ambiente de desenvolvimento. `git clone https://github.com/Eduardo-Willian-Horst/Laboratorio-de-Jogos.git`
 2. Abra o arquivo index.html em seu navegador preferido.
 3. Navegue pela página inicial para encontrar uma lista de jogos disponíveis.
 4. Para acessar um jogo específico, basta clicar na imagem ou no título correspondente.
