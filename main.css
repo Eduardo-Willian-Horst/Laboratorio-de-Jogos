@@ -59,6 +59,11 @@ header {
     width: 60%;
 }
 
+.novidade{
+
+    margin-top: 42px;
+}
+
 .div_header{
 
     display: flex;
@@ -286,3 +291,15 @@ footer {
     color: yellow;
 }
 
+
+
+.botaoHome {
+    border: none;
+    margin-top: 10px;
+    height: 6px;
+    width: 28px;
+    background-color: #3e3e3ec2;
+    transition: all 0.4s ease;
+    margin-left: 2px;
+    margin-right: 2px;
+}
